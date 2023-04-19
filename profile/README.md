@@ -1,4 +1,3 @@
-# Codifica Ai 👋
 ## Sistemas inovadores e tecnologia acessível para acelerar o crescimento do seu negócio!
 Desenvolvemos sistemas que capturam a verdadeira identidade do seu negócio.
 
