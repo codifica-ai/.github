@@ -1,12 +1,5 @@
-## Hi there 👋
+# Codifica Ai 👋
+## Sistemas inovadores e tecnologia acessível para acelerar o crescimento do seu negócio!
+Desenvolvemos sistemas que capturam a verdadeira identidade do seu negócio.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Entendemos que o mundo da tecnologia pode parecer complexo e desafiador, mas nosso objetivo é descomplicar esse processo e torná-lo acessível para empresas de todos os tamanhos.
